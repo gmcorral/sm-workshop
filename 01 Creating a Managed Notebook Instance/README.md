@@ -78,7 +78,7 @@ In this section we will clone the GitHub repository into the Amazon SageMaker no
 
 	```bash
 	cd SageMaker
-	git clone https://github.com/giuseppeporcelli/sm-workshop
+	git clone https://github.com/gmcorral/sm-workshop
 	```
 3. When the clone operation completes, close the terminal window and return to the Jupyter landing page. The folder **sm-workshop** will appear automatically (if not, you can hit the **Refresh** button)
 
